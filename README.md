@@ -1,7 +1,5 @@
 # Experiment--02-Implementation-of-combinational-logic
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-## Developed by: LOKESH R
-## RegisterNumber:  212222240055
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
@@ -37,6 +35,10 @@ View the RTL diagram.
 Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
 Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
 Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
+```
+DEVELOPED BY: LOKESH R
+REG NO: 212222240055
+```
 ## Program:
 ```
 module proj2(A,B,C,D,F1);
